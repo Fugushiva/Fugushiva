@@ -1,13 +1,21 @@
-- 👋 Hi, I’m Jérôme
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, i'm jerome, and i am 31 years old. i'm currently study web developpement.
 
 
-👀 I’m interested in dev in general but mostly web developpement
 
-🌱 I’m currently learning Javascript / CSS / HTML
+- 👀 I’m interested in dev in general but mostly web developpement front & back-end
+
+
+- 🌱 I’m currently learning Javascript / CSS / HTML and i really like it !
+
+
+- 💞️ I’m looking to collaborate on different project to have more and more experience
+
+
+- 📫 You can reach me on discord : Holy_Owl#6414
+
+
+
+
 
 💞️ I’m looking to collaborate on website to pratice
 
